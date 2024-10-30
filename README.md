@@ -18,7 +18,7 @@
   <li>🌱 Actively exploring opportunities in the open-source community</li>
   <li>💻 Skilled in Next.js, React.js, Node.js, and GraphQL</li>
   <li>📚 Committed to continuous growth and learning new technologies</li>
-  <li>Sharing insights and tutorials on software development</li>
+  <li>✍🏻 Sharing insights and tutorials on software development</li>
 </ul>
 
 <br/>
