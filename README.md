@@ -1,6 +1,15 @@
-<a href="https://github.com/Ro-Rohit/Ro-Rohit.github.io">
-  <img src="./pixelcut-export.png" alt="Banner" style="margin: 0 auto; width:100%">
-</a>
+```Javascript
+const rohit = new Rohit({
+  skills: ["TypeScript", "React", "NextJS", "SQL", "NodeJS", "AWS"],
+  location: "India",
+  socials: {
+    twitter: "https://x.com/RohitSi76170355?mx=2",
+    website: "https://ro-rohit.github.io/",
+    linkedIn: "https://www.linkedin.com/in/rohit-singh-9aba00221",
+  },
+});
+
+```
 
 <br/>
 <br/>
@@ -9,7 +18,13 @@
 ---
 
 <p style="color:#f0f6fc;font-size:16px;margin-bottom:50px">
-👋 Hi there! I'm Rohit, a passionate Software Engineer on a journey to explore the world of technology. I specialize in full stack development using Next.js, React.js, and Node.js, and I’m enthusiastic about contributing to open source projects. 🚀 I'm committed to continuous learning and sharing my insights to help others grow in their tech journeys.  
+Hey there! 👋 My name is Niels and I'm a freelance full stack developer from Belgium with a keen interest in both frontend and backend technologies.
+
+I mostly work with TypeScript, React and Node.js but also take the time to explore other languages like Rust and Golang to create CLI tools that add value to projects.
+
+When I'm not coding, you'll find me listening to music or building custom keyboards.
+
+<a href="https://ro-rohit.github.io/" alt="Get in touch with me">Get in touch with me</a> if you want to work together.
 </p>
 
 <ul style="color:#f0f6fc;font-size:16px; margin-bottom:50px;">
