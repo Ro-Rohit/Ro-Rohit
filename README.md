@@ -27,14 +27,6 @@ When I'm not coding, you'll find me listening to music or building custom keyboa
 <a href="https://ro-rohit.github.io/" alt="Get in touch with me">Get in touch with me</a> if you want to work together.
 </p>
 
-<ul style="color:#f0f6fc;font-size:16px; margin-bottom:50px;">
-  <li>👨‍💻 Passionate about sharing my journey and learnings in tech.</li>
-  <li>🌱 Actively exploring opportunities in the open-source community</li>
-  <li>💻 Skilled in Next.js, React.js, Node.js, and GraphQL</li>
-  <li>📚 Committed to continuous growth and learning new technologies</li>
-  <li>✍🏻 Sharing insights and tutorials on software development</li>
-</ul>
-
 <br/>
 
 ### 🛠 Tech Stack
