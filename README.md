@@ -18,7 +18,7 @@ const rohit = new Rohit({
 ---
 
 <p style="color:#f0f6fc;font-size:16px;margin-bottom:50px">
-Hey there! 👋 My name is Niels and I'm a freelance full stack developer from Belgium with a keen interest in both frontend and backend technologies.
+Hey there! 👋 My name is Rohit and I'm a freelance full stack developer from India with a keen interest in both frontend and backend technologies.
 
 I mostly work with TypeScript, React and Node.js but also take the time to explore other languages like Rust and Golang to create CLI tools that add value to projects.
 
